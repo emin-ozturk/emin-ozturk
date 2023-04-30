@@ -1,8 +1,9 @@
 <!--### Hi there 👋 -->
 
 [![Google Play](https://img.shields.io/badge/%20-Google%20Play-black?color=14171A&labelColor=212121&logo=GooglePlay&logoColor=ffcc80)](https://play.google.com/store/apps/dev?id=6511245882117047076)
-
 [![LinkedIn Connect](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/emin-öztürk/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=emin-ozturk&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
 
 <!--
 **emin-ozturk/emin-ozturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
