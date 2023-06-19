@@ -2,7 +2,7 @@
 
 [![Google Play](https://img.shields.io/badge/%20-Google%20Play-black?color=14171A&labelColor=212121&logo=GooglePlay&logoColor=ffcc80)](https://play.google.com/store/apps/dev?id=6511245882117047076)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/emin-öztürk/)
-[![Web Site](https://img.shields.io/badge/%20-Portfolio-black?color=14171A&labelColor=212121&logo=opera&logoColor=ffcc80)]([https://www.linkedin.com/in/emin-öztürk/](https://emin-ozturk.github.io/portfolio/))
+[![Web Site](https://img.shields.io/badge/%20-Portfolio-black?color=14171A&labelColor=212121&logo=opera&logoColor=ffcc80)](https://emin-ozturk.github.io/portfolio/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=emin-ozturk&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
 
