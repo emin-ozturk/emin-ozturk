@@ -14,7 +14,6 @@
       <img src="https://img.shields.io/badge/Portfolio-FF9800?style=for-the-badge&logo=opera&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=emin-ozturk&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
